@@ -1,0 +1,51 @@
+body
+{
+  color: rgb(29, 164, 168);
+  background: #fcedff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(227, 70, 201);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#prediction1{
+  color: rgb(184, 11, 152);
+  font-size: 20px;
+}
+
+#prediction2{
+  color: rgb(255, 109, 230);
+  font-size: 20px;
+}
+
+h3{
+    font-size: 50px;
+}
+
+#cam{
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+
+#snapshot{
+    color: darkgoldenrod;
+    font-size: 20px;
+}
